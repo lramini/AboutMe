@@ -1,0 +1,110 @@
+/*This is css for the Navigation Bar*/
+#NavigationBar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(50,50,50);
+}
+body{
+  background-color: black;
+
+
+}
+li a{
+  float: left;
+  display: block;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: rgb(20,20,20);
+}
+.text{
+  font-family: serif;
+  font-size: 40px;
+  text-align:center;
+  color: white;
+
+}
+table{
+  text-align: center;
+
+}
+
+
+
+/*This is css for index.html*/
+#toppage1{
+  font-family: "times", serif;
+  font-size: 120px;
+  text-align: center;
+  font-weight:bold;
+  color: rgb(100,100,100);
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+
+}
+
+
+#me{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+/*This is css for hobby1.html*/
+#toppage2{
+  font-family: sans-serif;
+  font-size: 120px;
+  text-align: center;
+  font-weight:bold;
+  color: rgb(100,100,250);
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+
+}
+.image {
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+
+}
+
+/*This is css for hobby2.html*/
+#toppage3{
+  font-family: monospace;
+  font-size: 120px;
+  text-align: center;
+  font-weight:bold;
+  color: rgb(250,50,100);
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+
+}
+
+/*This is css for hobby3.html*/
+#toppage4{
+  font-family: cursive;
+  font-size: 120px;
+  text-align: center;
+  font-weight:bold;
+  color: rgb(100,250,100);
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+
+}
